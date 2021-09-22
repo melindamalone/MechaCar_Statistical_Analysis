@@ -7,4 +7,4 @@ In Module Fifteen, R programming language, a language popular in data science an
 
 The coefficients produced after using the lm() function on the MechaCar_mpg dataframe are ground_clearance, vehicle_weight, AWD, spoiler_angle, and mpg.
 
-![](Images/MechaCar_mpg.png)
+![](Images/MechaCar_mpg.PNG)
